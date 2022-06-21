@@ -1,6 +1,6 @@
 ### Hi there, I'm Davi Oliveira! 👋
 
-- 🔭 I’m currently working as jr. front-end developer
+- 🔭 I’m a jr. full stack developer
 - 🌱 I’m currently learning angular, react and typescript. I'm also looking to become a full stack developer, and for that I'm studying back end stuff.
 - 📫 You can reach me in my e-mail: carlosd_oliveira@hotmail.com
 
