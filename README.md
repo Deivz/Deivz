@@ -1,6 +1,6 @@
 ### Hi there, I'm Davi Oliveira! 👋
 
-- 🔭 I’m a jr. full stack developer
+- 🔭 I’m a mid level full stack developer
 - 📫 You can reach me in my e-mail: carlosd_oliveira@hotmail.com or my LinkedIn: https://www.linkedin.com/in/carlos-davi-oliveira/
 
 <div align="center">
