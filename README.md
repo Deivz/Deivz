@@ -3,6 +3,9 @@
 - 🔭 I’m a mid level full stack developer
 - 📫 You can reach me in my e-mail: carlosd_oliveira@hotmail.com or my LinkedIn: https://www.linkedin.com/in/carlos-davi-oliveira/
 
+<strong>Checkout my latest realease app in Play Store:</strong>
+https://play.google.com/store/apps/details?id=com.alz.pmcsedas
+
 <div align="center">
   <a href="https://github.com/Deivz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
