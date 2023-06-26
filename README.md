@@ -3,7 +3,7 @@
 - 🔭 I’m a mid level full stack developer
 - 📫 You can reach me in my e-mail: carlosd_oliveira@hotmail.com or my LinkedIn: https://www.linkedin.com/in/carlos-davi-oliveira/
 
-<strong>Checkout my latest realease app in Play Store:</strong>
+<strong>Checkout my latest realeased app in Play Store:</strong>
 https://play.google.com/store/apps/details?id=com.alz.pmcsedas
 
 <div align="center">
