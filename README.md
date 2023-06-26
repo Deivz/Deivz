@@ -3,8 +3,12 @@
 - 🔭 I’m a mid level full stack developer
 - 📫 You can reach me in my e-mail: carlosd_oliveira@hotmail.com or my LinkedIn: https://www.linkedin.com/in/carlos-davi-oliveira/
 
-<strong>Checkout my latest realeased app in Play Store:</strong>
+## :iphone: I also have published 2 apps in Play Store
 https://play.google.com/store/apps/details?id=com.alz.pmcsedas
+<strong>
+  The next one is still in closed test version, whenever it comes to production you can check him in the link below
+</strong>
+https://play.google.com/store/apps/details?id=com.alz.preagendamentos
 
 <div align="center">
   <a href="https://github.com/Deivz">
